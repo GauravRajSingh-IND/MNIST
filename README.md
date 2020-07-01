@@ -9,4 +9,6 @@ here in this Sequential neural network i'm using grey scale images so channel is
 # Training
 This convolutional layers will have 128 neurons (feature maps) and a 3x3 feature detector. In turn, our pooling layers will use max pooling with a 2x2 matrix. Convolutional neural networks are almost always proceeded by an artificial neural network. In Keras, a Dense layer implements the operation output = activation(dot(input, weight) + bias). The input to our artificial neural network must be in one dimension therefore we flatten it beforehand.
 
+# Model accuracy is 99.66% on 10 epoch
+
 
